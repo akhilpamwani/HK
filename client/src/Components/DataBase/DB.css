@@ -1,0 +1,37 @@
+#Search {
+    justify-content: center;
+    margin: auto;
+    display: block;
+    outline: none;
+    text-align: center;
+    width: 300px;
+    border-radius: 25px;
+    height: 45px;
+    
+   color: red;
+    background: transparent;
+    border: 1px solid;
+
+}
+#Search::-webkit-input-placeholder{
+    color: red;
+    text-align: center;
+    margin: auto;
+   
+}
+#Search::-webkit-search-cancel-button{
+    color: rgb(216, 183, 123) !important;
+    background: wheat !important;
+    margin-right:20px;
+    width: 60px;
+    font-size: 20px;
+    
+    height: 30px;
+}
+#Search::-ms-clear{
+    margin-right:20px;
+    color: wheat !important;
+    background: wheat !important;
+    width: 60px;
+    height: 30px;
+}

@@ -1,0 +1,41 @@
+.navbar-nav{
+    margin: auto;
+    text-align: center;
+    
+}
+.btn{
+    justify-content: center;
+    margin: auto;
+}
+.navbar{
+    z-index: 200;
+    width: 100%;
+    position: fixed !important;
+}
+.Nav-Img{
+    width: 48px;
+}
+.d-flex {
+    display: flex !important;
+    justify-content: center;
+}
+img.d-block.w-100 {
+    height: 750px !important;
+}
+#root {
+    overflow-x: clip;
+}
+.nav-link.active:hover {
+    color: red !important;
+}
+.navbar-dark{
+    z-index: 200;
+    width: 100%;
+    position: fixed !important ;
+}
+.nav-link.active:hover {
+    color: red !important;
+}
+.nav-item:hover {
+    color: red;
+}

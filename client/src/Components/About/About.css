@@ -1,0 +1,7 @@
+.card-body{
+    margin-top: 25px;
+}
+img.img-fluid.rounded-start {
+    height: 290px;
+    width: -webkit-fill-available;
+}

@@ -1,0 +1,29 @@
+.navbar-nav{
+    margin: auto;
+    text-align: center;
+    
+}
+.btn{
+    justify-content: center;
+    margin: auto;
+}
+.Nav-Img{
+    width: 48px;
+}
+#root {
+    overflow-x: clip;
+}
+.nav-link.active:hover {
+    color: red !important;
+}
+.navbar{
+    z-index: 200;
+    width: 100%;
+    position: sticky !important ;
+}
+.nav-link.active:hover {
+    color: red !important;
+}
+.nav-item:hover {
+    color: red;
+}

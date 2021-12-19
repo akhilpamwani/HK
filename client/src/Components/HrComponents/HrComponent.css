@@ -1,0 +1,18 @@
+.HR{
+       
+     height: 5px;  
+    width: 25%;
+justify-content: center;
+margin: 10px auto;
+background: black;
+
+
+}
+.Blood-H1{
+    text-align: center;
+    margin: auto;
+    font-family: 'lobster';
+}
+.HR {
+    height: 2px !important;
+}
